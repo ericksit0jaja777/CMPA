@@ -325,3 +325,10 @@
 #acceptCookies{
     width: 11%;
 }
+
+@media (max-width: 600px){
+        .caja{
+                flex: 1 1 100%;
+                margin: 5px 0;
+        }
+}
